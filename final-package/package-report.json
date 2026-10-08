@@ -1,0 +1,351 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 1,
+  "reason": "User requested final packaging of exactly nine approved states; installed Codex loader explicitly supports v1 1536x1872. No unapproved look directions generated.",
+  "all_visible_pixels_preserved": true,
+  "cells": [
+    {
+      "row": 0,
+      "column": 0,
+      "state": "idle",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\idle\\00.png"
+    },
+    {
+      "row": 0,
+      "column": 1,
+      "state": "idle",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\idle\\01.png"
+    },
+    {
+      "row": 0,
+      "column": 2,
+      "state": "idle",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\idle\\02.png"
+    },
+    {
+      "row": 0,
+      "column": 3,
+      "state": "idle",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\idle\\03.png"
+    },
+    {
+      "row": 0,
+      "column": 4,
+      "state": "idle",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\idle\\04.png"
+    },
+    {
+      "row": 0,
+      "column": 5,
+      "state": "idle",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\idle\\05.png"
+    },
+    {
+      "row": 1,
+      "column": 0,
+      "state": "running-right",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\running-right\\00.png"
+    },
+    {
+      "row": 1,
+      "column": 1,
+      "state": "running-right",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\running-right\\01.png"
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "state": "running-right",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\running-right\\02.png"
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "state": "running-right",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\running-right\\03.png"
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "state": "running-right",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\running-right\\04.png"
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "state": "running-right",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\running-right\\05.png"
+    },
+    {
+      "row": 1,
+      "column": 6,
+      "state": "running-right",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\running-right\\06.png"
+    },
+    {
+      "row": 1,
+      "column": 7,
+      "state": "running-right",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\running-right\\07.png"
+    },
+    {
+      "row": 2,
+      "column": 0,
+      "state": "running-left",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\three-action-revisions\\frames\\running-left\\00.png"
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "state": "running-left",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\three-action-revisions\\frames\\running-left\\01.png"
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "state": "running-left",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\three-action-revisions\\frames\\running-left\\02.png"
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "state": "running-left",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\three-action-revisions\\frames\\running-left\\03.png"
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "state": "running-left",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\three-action-revisions\\frames\\running-left\\04.png"
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "state": "running-left",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\three-action-revisions\\frames\\running-left\\05.png"
+    },
+    {
+      "row": 2,
+      "column": 6,
+      "state": "running-left",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\three-action-revisions\\frames\\running-left\\06.png"
+    },
+    {
+      "row": 2,
+      "column": 7,
+      "state": "running-left",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\three-action-revisions\\frames\\running-left\\07.png"
+    },
+    {
+      "row": 3,
+      "column": 0,
+      "state": "waving",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\waving\\00.png"
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "state": "waving",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\waving\\01.png"
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "state": "waving",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\waving\\02.png"
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "state": "waving",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\waving\\03.png"
+    },
+    {
+      "row": 4,
+      "column": 0,
+      "state": "jumping",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\three-action-revisions\\frames\\jumping\\00.png"
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "state": "jumping",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\three-action-revisions\\frames\\jumping\\01.png"
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "state": "jumping",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\three-action-revisions\\frames\\jumping\\02.png"
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "state": "jumping",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\three-action-revisions\\frames\\jumping\\03.png"
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "state": "jumping",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\three-action-revisions\\frames\\jumping\\04.png"
+    },
+    {
+      "row": 5,
+      "column": 0,
+      "state": "failed",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\three-action-revisions\\frames\\failed\\00.png"
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "state": "failed",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\three-action-revisions\\frames\\failed\\01.png"
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "state": "failed",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\three-action-revisions\\frames\\failed\\02.png"
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "state": "failed",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\three-action-revisions\\frames\\failed\\03.png"
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "state": "failed",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\three-action-revisions\\frames\\failed\\04.png"
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "state": "failed",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\three-action-revisions\\frames\\failed\\05.png"
+    },
+    {
+      "row": 5,
+      "column": 6,
+      "state": "failed",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\three-action-revisions\\frames\\failed\\06.png"
+    },
+    {
+      "row": 5,
+      "column": 7,
+      "state": "failed",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\three-action-revisions\\frames\\failed\\07.png"
+    },
+    {
+      "row": 6,
+      "column": 0,
+      "state": "waiting",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\waiting\\00.png"
+    },
+    {
+      "row": 6,
+      "column": 1,
+      "state": "waiting",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\waiting\\01.png"
+    },
+    {
+      "row": 6,
+      "column": 2,
+      "state": "waiting",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\waiting\\02.png"
+    },
+    {
+      "row": 6,
+      "column": 3,
+      "state": "waiting",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\waiting\\03.png"
+    },
+    {
+      "row": 6,
+      "column": 4,
+      "state": "waiting",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\waiting\\04.png"
+    },
+    {
+      "row": 6,
+      "column": 5,
+      "state": "waiting",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\waiting\\05.png"
+    },
+    {
+      "row": 7,
+      "column": 0,
+      "state": "running",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\running\\00.png"
+    },
+    {
+      "row": 7,
+      "column": 1,
+      "state": "running",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\running\\01.png"
+    },
+    {
+      "row": 7,
+      "column": 2,
+      "state": "running",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\running\\02.png"
+    },
+    {
+      "row": 7,
+      "column": 3,
+      "state": "running",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\running\\03.png"
+    },
+    {
+      "row": 7,
+      "column": 4,
+      "state": "running",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\running\\04.png"
+    },
+    {
+      "row": 7,
+      "column": 5,
+      "state": "running",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\running\\05.png"
+    },
+    {
+      "row": 8,
+      "column": 0,
+      "state": "review",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\review\\00.png"
+    },
+    {
+      "row": 8,
+      "column": 1,
+      "state": "review",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\review\\01.png"
+    },
+    {
+      "row": 8,
+      "column": 2,
+      "state": "review",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\review\\02.png"
+    },
+    {
+      "row": 8,
+      "column": 3,
+      "state": "review",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\review\\03.png"
+    },
+    {
+      "row": 8,
+      "column": 4,
+      "state": "review",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\review\\04.png"
+    },
+    {
+      "row": 8,
+      "column": 5,
+      "state": "review",
+      "source": "D:\\dev-chatgpt\\codex-firekeeper-pet\\action-review\\frames\\review\\05.png"
+    }
+  ],
+  "package": "D:\\dev-chatgpt\\codex-firekeeper-pet\\final-package\\firekeeper"
+}
